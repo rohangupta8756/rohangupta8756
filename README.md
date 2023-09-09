@@ -1,6 +1,6 @@
 
 
-[![MasterHead](https://media.licdn.com/dms/image/D4D3DAQG8TO8TotYeuQ/image-scale_191_1128/0/1672032216795?e=1694847600&v=beta&t=kUvTw-hZzuzvkY78W_Dep45h2yIp-XJTjwp8fBbMSYk)]
+![MasterHead](https://media.licdn.com/dms/image/D4D3DAQG8TO8TotYeuQ/image-scale_191_1128/0/1672032216795?e=1694847600&v=beta&t=kUvTw-hZzuzvkY78W_Dep45h2yIp-XJTjwp8fBbMSYk)
 <h1 align="center">Hi 👋, I'm Rohan 👨‍💻</h1>
 <h3 align="center">A passionate Frontend Developer💻 from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
