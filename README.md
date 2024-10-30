@@ -1,13 +1,12 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D3DAQG8TO8TotYeuQ/image-scale_191_1128/0/1672032216795?e=1694847600&v=beta&t=kUvTw-hZzuzvkY78W_Dep45h2yIp-XJTjwp8fBbMSYk)
 <h1 align="center">Hi 👋, I'm Rohan 👨‍💻</h1>
-<h3 align="center">A passionate Frontend Developer💻 from India</h3>
+<h3 align="center">A passionate Developer💻 from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohangupta8756&label=Profile%20views&color=0e75b6&style=flat" alt="rohangupta8756" /> </p>
 
-- 🌱 I’m currently exploring **Backend Development**
+- 🌱 I’m currently exploring **DSA & Full Stack Development**
 
-- 💬 Ask me about **Java, DSA, HTML/CSS, Javascript, React**
+- 💬 Ask me about **Java, DSA, HTML/CSS, Javascript, React.js, Angular, Spring, Springboot, Node.js, Git & Github**
 
 - 📫 How to reach me **rohangupta8756@gmail.com**
 
