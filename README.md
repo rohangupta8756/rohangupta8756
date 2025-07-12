@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Rohan 👨‍💻</h1>
-<h3 align="center">A passionate Developer💻 from India</h3>
+<h1 align="center">Hi!, I'm Rohan</h1>
+<h3 align="center">A passionate software developer 👨‍💻 from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohangupta8756&label=Profile%20views&color=0e75b6&style=flat" alt="rohangupta8756" /> </p>
 
 - 🌱 I’m currently exploring **DSA & Full Stack Development**
 
@@ -12,15 +10,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/rohangu56040124" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohangu56040124" height="30" width="40" /></a>
+<a href="https://twitter.com/rohangupta87561" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rohangu56040124" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rohangupta8756" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohangupta8756" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/rohangupta8756" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="rohangupta8756" height="30" width="40" /></a>
 <a href="https://instagram.com/rohangupta8756" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rohangupta8756" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rohangupta8756" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rohangupta8756" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/120ee0686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="120ee0686" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/rohangupta8756" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rohangupta8756" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rohangupta0686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohangupta0686" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rohangupta8756" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohangupta8756" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/rohangupta0113" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohangupta0686" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/rohangup55uk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rohangupta8756" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
